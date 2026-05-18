@@ -30,7 +30,7 @@ A few originals you can look at:
 What I'm building now:
 
 - **[quiz_formatter_with_chatgpt](https://github.com/TesterBaku/quiz_formatter_with_chatgpt)** — PDF quiz parser + randomized practice web UI (Python, OpenAI).
-- **[math-teacher-prototype](https://github.com/TesterBaku/math-teacher-prototype)** — TypeScript prototype for a math teacher interface.
+- **[math-teacher-prototype](https://github.com/TesterBaku/math-teacher-prototype)** — Interactive Grade 5 math lessons & quizzes (TypeScript).
 - **[ai-with-rufat-prompts](https://github.com/TesterBaku/ai-with-rufat-prompts)** — Prompt library and experiments.
 - **[appliance-repair-website](https://github.com/TesterBaku/appliance-repair-website)** — Static site for a local business.
 - **[portfolio-project](https://github.com/TesterBaku/portfolio-project)** — Intelligent Logistics Control Tower (Java).
