@@ -41,7 +41,7 @@ What I'm building now:
 
 ## 📫 Contact
 
-- Email: agatime78@gmail.com
+- Email: rufatmalikov22@gmail.com
 - Location: Tustin, CA
 
 ---
