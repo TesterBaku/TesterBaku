@@ -4,7 +4,7 @@ Senior SDET / test automation lead — Orange County, CA.
 
 I build test automation frameworks, and the apps, tooling, and training material that go around them. Currently writing a free Playwright course in Azerbaijani and English.
 
-🌐 rufatmalikov.com · 💼 LinkedIn · ✉️ rufatmalikov22@gmail.com
+🌐 [rufatmalikov.com](https://rufatmalikov.com) · 💼 [LinkedIn](https://www.linkedin.com/in/rufat-malikov-295aab22/) · ✉️ rufatmalikov22@gmail.com
 
 Featured work
 
