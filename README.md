@@ -1,49 +1,35 @@
-# Hi, I'm Rufat 👋
+Rufat Malikov
 
-QA engineer based in Tustin, CA. I build test automation frameworks and — more recently — AI-powered tools, web apps, and small Python utilities.
+Senior SDET / test automation lead — Orange County, CA.
 
-This profile is a mix of two things:
+I build test automation frameworks, and the apps, tooling, and training material that go around them. Currently writing a free Playwright course in Azerbaijani and English.
 
-- **Test automation work** I've built over the years: UI, API, and mobile, in Java, Python, and TypeScript.
-- **Newer projects** in AI, web, and scripting as I expand into adjacent areas.
+🌐 rufatmalikov.com · 💼 LinkedIn · ✉️ rufatmalikov22@gmail.com
 
----
+Featured work
 
-## 🧪 Test automation
+TestMarket Lab — Training e-commerce + admin app built as a practice target for the Playwright course. Real auth, cart, and admin flows, seeded with the edge cases testers actually need to automate against. Node · EJS · Playwright
 
-A few originals you can look at:
+SDET Interview Trainer · Live demo — Flashcards, quizzes, mock interviews, and coding tasks, with a daily plan and a spaced review queue. No backend — static JSON content. Next.js 16 · React 19 · TypeScript · Tailwind
 
-- **[Playwright_With_TS](https://github.com/TesterBaku/Playwright_With_TS)** — Modern UI automation in TypeScript with Playwright.
-- **[RestAssuredAPIFrameSimple](https://github.com/TesterBaku/RestAssuredAPIFrameSimple)** — API testing framework: Java + RestAssured + Maven + TestNG.
-- **[POMFramework](https://github.com/TesterBaku/POMFramework)** — Selenium Page Object Model reference in Java.
-- **[AppiumBasics](https://github.com/TesterBaku/AppiumBasics)** — Mobile (Android) UI automation with Appium.
-- **[AppiumIOS](https://github.com/TesterBaku/AppiumIOS)** — iOS Appium test setup.
-- **[BDDUIJavaFramework](https://github.com/TesterBaku/BDDUIJavaFramework)** — Java BDD UI framework.
-- **[PythonSeleniumMaterial](https://github.com/TesterBaku/PythonSeleniumMaterial)** — Selenium methods in Python.
+rufatmalikov.com — Source for my personal site and multilingual (EN/AZ) course hub. Astro Starlight · Cloudflare Pages
 
-**Stack I work with:** Java · TypeScript · Python · Selenium · Playwright · Appium · RestAssured · TestNG · JUnit · Maven · Cucumber · POM
+Playwright with TypeScript — End-to-end suite against a real Angular admin app, structured with the Page Object Model. Playwright · TypeScript
 
----
+UNEC Quiz Formatter — Parses questions straight out of course PDFs into randomized practice quizzes. Fully deterministic — no LLM in the loop — so output is reproducible and verifiable. Python · Windows .exe
 
-## 🤖 New direction — AI, web, scripts
+Reference frameworks
 
-What I'm building now:
+Clean, minimal implementations I keep around as teaching references and starting points.
 
-- **[quiz_formatter_with_chatgpt](https://github.com/TesterBaku/quiz_formatter_with_chatgpt)** — PDF quiz parser + randomized practice web UI (Python, OpenAI).
-- **[math-teacher-prototype](https://github.com/TesterBaku/math-teacher-prototype)** — Interactive Grade 5 math lessons & quizzes (TypeScript).
-- **[ai-with-rufat-prompts](https://github.com/TesterBaku/ai-with-rufat-prompts)** — Prompt library and experiments.
-- **[appliance-repair-website](https://github.com/TesterBaku/appliance-repair-website)** — Static site for a local business.
-- **[portfolio-project](https://github.com/TesterBaku/portfolio-project)** — Intelligent Logistics Control Tower (Java).
+Repo	What it shows
+RestAssuredAPIFrameSimple	API framework — Java, RestAssured, Maven, TestNG, data-driven
+POMFramework	Page Object Model reference for Selenium in Java
+AppiumBasics	Android UI automation — Appium, Java, TestNG
+BDDUIJavaFramework	BDD UI framework — Cucumber + Selenium
+PythonSeleniumMaterial	Selenium patterns in Python
+Stack
 
-**Tools I'm using:** Python · TypeScript · Astro · Claude · OpenAI · Jupyter
-
----
-
-## 📫 Contact
-
-- Email: rufatmalikov22@gmail.com
-- Location: Tustin, CA
-
----
+Testing Playwright · Selenium · Appium · RestAssured · TestNG · JUnit · Cucumber Languages TypeScript · Java · Python Building with Next.js · Astro · Node · Maven · Docker
 
 <sub>The "Archived" repos on this profile are forks from earlier learning courses — kept for history, not active work.</sub>
